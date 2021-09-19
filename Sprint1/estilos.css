@@ -1,0 +1,67 @@
+
+h2{
+    text-align: center;
+    background-color: green;
+    padding: 2.5rem;
+    margin: 5rem;
+}
+#form-registro{
+    text-align: center;
+}
+#btn-submit-form{
+    background-color: greenyellow;
+}
+
+
+/********************Estilo específico Index**************************/
+
+h1{
+    background-color: rgb(255, 214, 127);
+    color: white;
+    font-style: italic;
+}
+
+#btn-registrar{
+    background-color: rgb(10, 120, 216);
+}
+
+header ul{
+    background-color: rgb(10, 120, 216);
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+header ul li{
+    float:left;
+}
+header ul li a{
+    color:white;
+    text-decoration-line:none;
+    padding: 12px;
+    display: block;
+
+}
+header ul li a:hover{
+    background-color: rgb(238, 151, 44);
+}
+
+
+
+
+
+/*Estilo para el menú 2*/
+#desplegable{
+    width:120px;
+    position:absolute;
+    right:8px;
+    top: 58px;
+    display:initial;
+}
+
+   /*Estilo de los íconos*/
+
+
+
+ 
